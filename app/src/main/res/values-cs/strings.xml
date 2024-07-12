@@ -658,4 +658,8 @@
     <string name="pref_category_accounts">Účty</string>
     <string name="auth_locally">Lokální ověření</string>
     <string name="device_pin_expired_message">PIN kód vypršel!</string>
+    <string name="open_local_video">Otevřít lokální video</string>
+    <string name="delete_plugin">Odstranit doplněk</string>
+    <string name="test_warning">Varování</string>
+    <string name="downloads_empty">Momentálně zde nejsou žádná stahování.</string>
 </resources>

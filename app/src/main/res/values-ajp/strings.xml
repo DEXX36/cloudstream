@@ -37,7 +37,7 @@
     <string name="subs_download_languages">نزل الترجمات مع الڤيديو</string>
     <string name="search_provider_text_providers">عوزو المصادر لَ تنبّشو</string>
     <string name="go_back_img_des">رجاع</string>
-    <string name="discord">انضم لگروپ \"كلود ستريم\" ع الـ\"ديسكورد\"</string>
+    <string name="discord">انضم لگروپ \"كلود ستريم\" عال \"ديسكورد\"</string>
     <string name="episode_more_options_des">بعد خيارات</string>
     <string name="backup_success">تسيّڤة النسخة الإحتياطية</string>
     <string name="benene_count_text">صرتو عاطين %d موزززة للمطورين!</string>
@@ -59,14 +59,14 @@
     <string name="filler" formatted="true">فيلير</string>
     <string name="benene_count_text_none">مش عاطين ولا موزززة</string>
     <string name="backup_settings">عمول نسخة إحتياطية</string>
-    <string name="restore_success">رجِعِت ع النسخة الإحتياطية</string>
+    <string name="restore_success">رجِعِت عال نسخة الإحتياطية</string>
     <string name="subs_subtitle_languages">لغة الترجمة</string>
     <string name="subs_background_color">لون الخلفية</string>
     <string name="episode_sync_settings_des">بتسيّڤ تاريخ المشاهدة ولوين وصلت بالڤيديو</string>
     <string name="bug_report_settings_on">ما بتبعت بيانات</string>
     <string name="search_hint">نبّش…</string>
     <string name="provider_info_meta">هيدا المصدر مش عاطي \"ميتا داتا\". إذا مش موجودة بالمصدر، ما رح يمشي الڤيديو.</string>
-    <string name="no_season">ما في أجزاء</string>
+    <string name="no_season">مافي أجزاء</string>
     <string name="play_episode_toast">مشّي الحلقة</string>
     <string name="category_account">الحسابات والأمان</string>
     <string name="eigengraumode_settings">سرعة الڤيديو</string>
@@ -79,8 +79,8 @@
     <string name="automatic_plugin_download_summary">تلقائيًا نَزِل كل الإضافات من الريپويات يللي نزادِت.</string>
     <string name="delete">محي</string>
     <string name="start">بلش</string>
-    <string name="apk_installer_settings_des">في تِلِفونات ما فيا تعوز الطريقة الجديدة لتجديد الآپات. جربو \"الطريقة القديمة\" إذا ما عم تنزل التجديدات.</string>
-    <string name="picture_in_picture_des">بعد ما تسكر \"كلود ستريم\"، بكفي الڤيديو بشِباك زغير فوق غير آپ</string>
+    <string name="apk_installer_settings_des">فيه تِلِفونات ما فيها تعوز الطريقة الجديدة لتجديد الآپات. جربو \"الطريقة القديمة\" إذا ما عم تنزل التجديدات.</string>
+    <string name="picture_in_picture_des">بعدما تسكر \"كلود ستريم\"، بكفي الڤيديو بشِباك زغير فوق غير آپ</string>
     <string name="no_chromecast_support_toast">هيدا المصدر ما بيدعم \"كروم كاست\"</string>
     <string name="advanced_search">تنبيش منظّم</string>
     <string name="chromecast_subtitles_settings">ترجمة \"كروم كاست\"</string>
@@ -116,7 +116,7 @@
     <string name="use_system_brightness_settings">عوز ضوّ السيستام</string>
     <string name="double_tap_to_pause_settings_des">كبوس مرتين بالنُصّ حتى توقف الڤيديو</string>
     <string name="uprereleases_settings">جدد الآب وعوز النسخة التجريبية</string>
-    <string name="no_data">ما في بيانات</string>
+    <string name="no_data">مافي بيانات</string>
     <string name="player_subtitles_settings">الترجمة</string>
     <string name="subs_font">الخط</string>
     <string name="redo_setup_process">رجاع عمول عملية الإعداد</string>
@@ -168,7 +168,7 @@
     <string name="movies">أفلام</string>
     <string name="free_storage">فاضي</string>
     <string name="year">سنة</string>
-    <string name="no_subtitles">ما في ترجمة</string>
+    <string name="no_subtitles">بلا ترجمة</string>
     <string name="synopsis">القصة</string>
     <string name="used_storage">مستعمل</string>
     <string name="resume_time_left" formatted="true">%dد
@@ -345,7 +345,7 @@
     <string name="sort_save">سَيِڤ</string>
     <string name="download_failed">فِشِل التنزيل</string>
     <string name="primary_color_settings">اللون الاساسي</string>
-    <string name="login">فوت ع الأكونت</string>
+    <string name="login">فوت عال أكونت</string>
     <string name="app_subbed_text">مترجم</string>
     <string name="stream">بِث من الإنترنت</string>
     <string name="home_play">مشي</string>
@@ -365,7 +365,7 @@
     <string name="subscription_new">شتركتو لـ\"%s\"</string>
     <string name="added_sync_format" formatted="true">زِدت %s</string>
     <string name="favorites_list_name">المفضلين</string>
-    <string name="favorite_added">\"%s\" نزاد ع المفضل</string>
+    <string name="favorite_added">\"%s\" نزاد عال مفضل</string>
     <string name="home_next_random_img_des">العشوائي يللي بعده</string>
     <string name="subtitles_shadow">خيال</string>
     <string name="subscription_in_progress_notification">عم نجدِد المثلثلات يللي مشتركينلها</string>
@@ -383,14 +383,14 @@
     <string name="subtitles_raised">معلى</string>
     <string name="blank_repo_message">\"كلود ستريم\" ما بتجي مع مصادر ڤيديوات. لازم تنزلو المصادر من ريپويات.
 \n
-\nفي معلومات على الـ\"ديسكورد\" تبعنا، أو فيكن تنبشو ع معلومات على الإنترنت.</string>
+\nفيه معلومات على الـ\"ديسكورد\" تبعنا، أو فيكن تنبشو ع معلومات على الإنترنت.</string>
     <string name="add_sync">زبد تتبع</string>
     <string name="mobile_data">3G/4G…</string>
     <string name="player_loaded_subtitles" formatted="true">نفَتح %s</string>
     <string name="update_notification_failed">ما قدرنا ننزل إصدار الجديد تبع الآپ</string>
     <string name="extension_authors">المؤلفين</string>
     <string name="plugin_singular">إضافة</string>
-    <string name="player_settings_play_in_web">كاست ڤيديو ع الوَب</string>
+    <string name="player_settings_play_in_web">كاست ڤيديو عال وَب</string>
     <string name="duplicate_title">معقول يكون موجود أصلًا</string>
     <string name="subscription_list_name">مشتركينلو</string>
     <string name="player_settings_play_in_browser">متصفح الوَب</string>
@@ -402,7 +402,7 @@
 \n…</string>
     <string name="extension_description">الوصف</string>
     <string name="view_public_repositories_button">شوف الريپوز تبع المجتمع</string>
-    <string name="safe_mode_title">إنت هلأ بالوضع الآمن</string>
+    <string name="safe_mode_title">إنت هلّق بال وضع الآمن</string>
     <string name="revert">سترجاع</string>
     <string name="quality_hdr">HDR</string>
     <string name="plugins_not_downloaded" formatted="true">مش منزل: %d</string>
@@ -412,7 +412,7 @@
     <string name="subscription_deleted">وقفتو الإشتراك لـ\"%s\"</string>
     <string name="quality_workprint">WP</string>
     <string name="no">لأ</string>
-    <string name="action_add_to_favorites">زيدو ع المفضل</string>
+    <string name="action_add_to_favorites">زيده عال مفضل</string>
     <string name="subtitle_offset_title">تأخير الترجمة</string>
     <string name="normal">عادي</string>
     <string name="extension_install_first">نزل الإضافة قبل</string>
@@ -481,7 +481,7 @@
     <string name="batch_download">نزلو المصادر بالجملة</string>
     <string name="open_with">فتاح بـ</string>
     <string name="sync_score">راينيگ</string>
-    <string name="delete_repository_plugins">محي الريپو كمان بمحي الإضافات يللي فيه</string>
+    <string name="delete_repository_plugins">محي الريپو كمان بيمحي الإضافات يللي فيه</string>
     <string name="extension_language">اللغة</string>
     <string name="action_subscribe">شترك</string>
     <string name="plugin_deleted">نمحت الإضافة</string>
@@ -529,7 +529,7 @@
     <string name="poster_image">صورة الپوستر</string>
     <string name="quality_blueray">Blu-ray</string>
     <string name="sync_score_format" formatted="true">%d/10</string>
-    <string name="clipboard_too_large">النص كبير كتير. ما فينا ننسخو.</string>
+    <string name="clipboard_too_large">النص كبير كتير. ما فينا ننسخه.</string>
     <string name="plugins_updated" formatted="true">عدد الإضافيات يللي تجددت: %d</string>
     <string name="delayed_update_notice">رح يتجدد الآپ وقتا تطلعو مِنو</string>
     <string name="hls_playlist">پلاي ليست \"ايش أل أس\"</string>
@@ -538,7 +538,7 @@
     <string name="preferred_media_subtext">شو بَدَك تشوف</string>
     <string name="subtitles_remove_captions">شيل المعلومات يللي محطوطة بال ترجمة ل يللي عندهن فقد سمعي</string>
     <string name="no_repository_found_error">ما لقينا ريپو. تأكدو إنو الرابط صح وجربو تعوزو \"ڤي پي أن\" (VPN)</string>
-    <string name="authenticated_user_fail" formatted="true">فشل الفوت ع الأكونت \"%s\"</string>
+    <string name="authenticated_user_fail" formatted="true">فشلة الفوتة عال أكونت \"%s\"</string>
     <string name="max">الحد الأعلى</string>
     <string name="update_notification_installing">عم نتطبق تجديد الآپ…</string>
     <string name="plugin">إضافات</string>
@@ -640,4 +640,8 @@
     <string name="dismiss">تجاهل</string>
     <string name="open_downloaded_repo">متاح الريپوزيتوري</string>
     <string name="device_pin_url_message">فتاح <b>%s</b> ع تلفونك أو كمپيوترك، وحط الكود اللي فوق</string>
+    <string name="test_warning">تحذير</string>
+    <string name="delete_plugin">محي الإضافة</string>
+    <string name="open_local_video">فتاح ڤيديو ع جهازك</string>
+    <string name="downloads_empty">هلّق مافي تنزيلات.</string>
 </resources>

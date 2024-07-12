@@ -654,4 +654,8 @@
     <string name="device_pin_error_message">Impossibile ottenere il codice PIN del dispositivo, prova l\'autenticazione locale</string>
     <string name="device_pin_expired_message">Il codice PIN è scaduto!</string>
     <string name="device_pin_counter_text">Il codice scadrà tra %1$dm %2$ds</string>
+    <string name="test_warning">Avvertimento</string>
+    <string name="delete_plugin">Elimina plugin</string>
+    <string name="open_local_video">Apri video locale</string>
+    <string name="downloads_empty">Al momento non ci sono download.</string>
 </resources>

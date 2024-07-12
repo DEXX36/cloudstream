@@ -666,4 +666,8 @@
     <string name="device_pin_url_message">قم بزيارة <b>%s</b> على هاتفك الذكي أو جهاز الكمبيوتر وأدخل الرمز أعلاه</string>
     <string name="device_pin_error_message">لا يمكن الحصول على رمز PIN للجهاز، حاول المصادقة المحلية</string>
     <string name="device_pin_counter_text">تنتهي صلاحية الرمز خلال %1$dm %2$ds</string>
+    <string name="downloads_empty">لا يوجد حالياً اى تنزيلات.</string>
+    <string name="test_warning">تحذير</string>
+    <string name="open_local_video">فتح فيديو محلي</string>
+    <string name="delete_plugin">حذف الإضافة</string>
 </resources>

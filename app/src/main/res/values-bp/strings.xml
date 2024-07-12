@@ -155,7 +155,7 @@
     <string name="show_trailers_settings">Mostrar trailers</string>
     <string name="kitsu_settings">Mostrar posters do Kitsu</string>
     <string name="pref_filter_search_quality">Esconder qualidades de vídeo selecionadas nos resultados da pesquisa</string>
-    <string name="automatic_plugin_updates">Atualizações de plugin automáticas</string>
+    <string name="automatic_plugin_updates">Atualizações automáticas das extensões</string>
     <string name="updates_settings">Mostrar atualizações do app</string>
     <string name="updates_settings_des">Automaticamente procurar por novas atualizações ao abrir.</string>
     <string name="uprereleases_settings">Atualizar para pré-lançamento</string>
@@ -401,21 +401,21 @@
     <string name="add_repository">Adicionar repositório</string>
     <string name="repository_name_hint">Nome do repositório</string>
     <string name="repository_url_hint">URL do repositório</string>
-    <string name="plugin_loaded">Plugin Carregado</string>
-    <string name="plugin_deleted">Plugin Apagado</string>
-    <string name="plugin_load_fail" formatted="true">Não consegui carregar %s :-(</string>
+    <string name="plugin_loaded">Extensão carregada</string>
+    <string name="plugin_deleted">Extensão excluída</string>
+    <string name="plugin_load_fail" formatted="true">Não foi possível carregar %s</string>
     <string name="batch_download_start_format" formatted="true">Iniciada a transferência %1$d %2$s…</string>
     <string name="batch_download_finish_format" formatted="true">Transferido %1$d %2$s</string>
     <string name="batch_download_nothing_to_download_format" formatted="true">Tudo %s já transferido</string>
     <string name="batch_download">Transferência em batch</string>
-    <string name="plugin_singular">Plugin</string>
-    <string name="plugin">Plugins</string>
-    <string name="delete_repository_plugins">Isto irá apagar todos os repositórios de plugins</string>
+    <string name="plugin_singular">Extensão</string>
+    <string name="plugin">Extensões</string>
+    <string name="delete_repository_plugins">Isso também excluirá todas as extensões do repositório</string>
     <string name="delete_repository">Apagar repositório</string>
     <string name="setup_extensions_subtext">Transferir lista de sites a usar</string>
-    <string name="plugins_downloaded" formatted="true">Transferido: %d</string>
+    <string name="plugins_downloaded" formatted="true">Download concluído: %d</string>
     <string name="plugins_disabled" formatted="true">Desativado: %d</string>
-    <string name="plugins_not_downloaded" formatted="true">Não transferido: %d</string>
+    <string name="plugins_not_downloaded" formatted="true">Download não concluído: %d</string>
     <string name="blank_repo_message">CloudStream não tem fontes instaladas por padrão. Você precisa instalar um site de repositórios.
 \n
 \nEntre no nosso Discord ou pesquise online.</string>
@@ -435,7 +435,7 @@
     <string name="referer">Referenciador (opcional)</string>
     <string name="pref_category_app_updates">Atualizações do App</string>
     <string name="play_with_app_name">Assistir com o CloudStream</string>
-    <string name="automatic_plugin_download_summary">Automaticamente instale todos os plugins não instalados dos repositórios adicionados.</string>
+    <string name="automatic_plugin_download_summary">Instalar automaticamente todas as extensões ainda não instaladas dos repositórios adicionados.</string>
     <string name="play_trailer_button">Reproduzir trailer</string>
     <string name="browser">Navegador</string>
     <string name="pref_category_backup">Copia de Segurança</string>
@@ -444,8 +444,8 @@
     <string name="empty_library_logged_in_message">Essa lista está vazia. Tente mudar para outra.</string>
     <string name="play_livestream_button">Reproduzir transmissão ao vivo</string>
     <string name="test_log">Log do Teste</string>
-    <string name="automatic_plugin_download">Baixar plugins automaticamente</string>
-    <string name="automatic_plugin_download_mode_title">Selecione o modo para filtrar os plugins baixados</string>
+    <string name="automatic_plugin_download">Baixar extensões automaticamente</string>
+    <string name="automatic_plugin_download_mode_title">Selecionar modo para filtrar download das extensões</string>
     <string name="test_failed">Teste falhou</string>
     <string name="android_tv_interface_on_seek_settings_summary">A Barra de Progresso pode ser usada quando o player estiver visível</string>
     <string name="sort">Organizar</string>
@@ -509,7 +509,7 @@
     <string name="extension_size">Tamanho</string>
     <string name="skip_type_op">Abrindo</string>
     <string name="season_format">%1$s %2$d%3$s</string>
-    <string name="plugins_updated" formatted="true">%d plugins atualizados</string>
+    <string name="plugins_updated" formatted="true">%d extensões atualizadas</string>
     <string name="safe_mode_description">Todos as extensões serão desligadas para ajuda se talvez estejam causando algum bug.</string>
     <string name="app_not_found_error">Aplicativo não encontrado</string>
     <string name="skip_type_recap">Recapitular</string>
@@ -524,7 +524,7 @@
     <string name="episode_format" formatted="true">%1$d %2$s</string>
     <string name="sort_updated_old">Adicionado em (antigo para novo)</string>
     <string name="skip_type_intro">Introdução</string>
-    <string name="no_plugins_found_error">plug-ins não foram encontrados no repositório</string>
+    <string name="no_plugins_found_error">Nenhuma extensão encontrada no repositório</string>
     <string name="no_repository_found_error">Repositório não encontrado, verifique o URL e tente usa uma VPN</string>
     <string name="extension_description">Descrição</string>
     <string name="extension_version">Versão</string>
@@ -557,7 +557,7 @@
     <string name="use">Usar</string>
     <string name="network_adress_example">https://example.com/example.mp4</string>
     <string name="pref_category_gestures">Gestos</string>
-    <string name="plugin_downloaded">Plugin baixado</string>
+    <string name="plugin_downloaded">Extensão baixada</string>
     <string name="jsdelivr_enabled">Não foi possível se conectar ao GitHub. Ativando proxy JsDelivr…</string>
     <string name="pref_category_cache">Cache</string>
     <string name="other_singular">Vídeo</string>
@@ -656,4 +656,8 @@
     <string name="device_pin_error_message">Não é possível obter o código PIN do dispositivo, tente a autenticação local</string>
     <string name="device_pin_expired_message">O código PIN expirou!</string>
     <string name="device_pin_counter_text">O código expira em %1$dm %2$ds</string>
+    <string name="open_local_video">Abrir vídeo local</string>
+    <string name="test_warning">Atenção</string>
+    <string name="delete_plugin">Excluir extensão</string>
+    <string name="downloads_empty">Não há downloads no momento.</string>
 </resources>
